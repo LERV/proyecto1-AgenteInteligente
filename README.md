@@ -3,6 +3,6 @@ Proyecto #1 del curso Inteligencia Artificial
 
 
 Integrantes:
-David Gonzales
-María Gonzales  
+David Gonzalez
+María Gonzalez  
 Luis E. Rodríguez
